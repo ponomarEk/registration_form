@@ -1,0 +1,19 @@
+.password{
+    border: 2px solid grey;
+    width: 300px;
+    height: 27px;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgb(218, 248, 243);
+}
+.red{
+    border: 2px solid red
+}
+.green{
+    border: 2px solid green
+}
+.passwordDiv{
+  margin-top: 40px;
+}
+
